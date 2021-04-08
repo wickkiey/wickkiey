@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
+- 🔭 I’m working in the fields of ML who loves to code.
+- 👯 I’m looking to collaborate on any open-source projects.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek1may/) or through [email](wickkiey@gmail.com))
 <!--
 **wickkiey/wickkiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
