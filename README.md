@@ -1,8 +1,9 @@
 ### Hello World 👋
 
-- 🔭 I’m working in the fields of ML who loves to code.
-- 👯 I’m looking to collaborate on any open-source projects.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek1may/) or through [email](wickkiey@gmail.com))
+- 🔭 Loves to code.
+- 👯 I’m looking to collaborate on machine learning, deeplearning and search optimization problems.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek1may/) or through [email](wickkiey@gmail.com)
+- 🌱 C++, Python, Javascript, Dart
 <!--
 **wickkiey/wickkiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
