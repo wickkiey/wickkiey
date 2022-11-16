@@ -1,9 +1,13 @@
 ### Hello World 👋
 
-- 🔭 Loves to code.
-- 👯 I’m looking to collaborate on machine learning, deeplearning and search optimization problems.
+- 🔭 ML/DL Engineer.
+- 🤹‍♂️ Specialized in Image and Video and 3D data analytics.
+- 👯 Available to collaborate for Hackathons and Opensource contribution and evaluation.
+- 🌱 C++, Python, Javascript, Java, Spark
+- ❤️ Building AI components for Tamil Language. 
+- 👨‍💻 Stackoverflow profile [wickkiey] (https://stackoverflow.com/users/1727543/wickkiey)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek1may/) or through [email](wickkiey@gmail.com)
-- 🌱 C++, Python, Javascript, Dart
+
 <!--
 **wickkiey/wickkiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
