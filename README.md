@@ -11,3 +11,6 @@
 - 👨‍💻 Analytics vidhya user profile [Vivek Ananthan](https://www.analyticsvidhya.com/user/wickkiey)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wickkiey)](https://git.io/streak-stats)
+
+
+[![Wickkiey's GitHub stats](https://github-readme-stats.vercel.app/api?username=wickkiey)]
