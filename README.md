@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Vivek Ananthan
+# Vivek Ananthan
 
-### ML/DL Engineer | Cloud AI Architect | Computer Vision Specialist
+### Principal AI Architect
+
+**Turning ambitious AI ideas into scalable, production-ready solutions.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Designing+production-ready+AI+systems;Generative+AI+%7C+Computer+Vision+%7C+NLP;Building+AI+experiences+for+Tamil" alt="Designing production-ready AI systems | Generative AI, computer vision, and NLP | Building AI experiences for Tamil" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wickkiey)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wickkiey@gmail.com)
@@ -14,46 +18,26 @@
 
 ## 🚀 About Me
 
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Vivek Ananthan"
-        self.role = "ML/DL/MLOps Engineer"
-        self.location = "Bangalore, India"
-        self.specialization = ["Computer Vision", "NLP", "MLOps"]
-        
-    def get_tech_stack(self):
-        return {
-            "cloud": ["Azure ML", "AWS SageMaker", "Azure Databricks"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "languages": ["Python", "C++", "JavaScript", "Java"],
-            "specialties": ["Image Analytics", "Video Processing", "3D Data"],
-            "focus": "Building AI solutions for Tamil Language 🇮🇳"
-        }
-```
+I’m a **Principal AI Architect** based in Bangalore, India, focused on designing and delivering intelligent, production-ready systems. My work spans **generative AI, machine learning, computer vision, and NLP**, with a special interest in building AI experiences for the **Tamil language**.
+
+I bring together AI engineering, cloud platforms, and MLOps to move solutions from experimentation to scalable deployment.
 
 ## 💼 Expertise
 
-🔹 **Machine Learning & Deep Learning**  
-- Computer Vision (Image & Video Analytics, 3D Data Processing)
-- Natural Language Processing (Specialized in Tamil Language)
-- Model Training, Fine-tuning & Optimization
-
-🔹 **Cloud & MLOps**  
-- Azure ML Studio | Azure Databricks | AWS SageMaker
-- CI/CD Pipelines for ML | Model Deployment & Monitoring
-- Scalable ML Infrastructure
-
-🔹 **Development**  
-- Python, C++, PySpark, JavaScript, Java
-- Full-stack ML Solutions
-- Open Source Contributions
+- **AI & ML:** Generative AI and LLMs, deep learning, model training and optimization
+- **Computer vision:** Image and video analytics, 3D data processing
+- **Language AI:** NLP, with a focus on Tamil-language applications
+- **Cloud & MLOps:** Azure ML, Azure Databricks, AWS SageMaker, deployment, monitoring, and ML CI/CD
+- **Engineering:** Python, C++, PySpark, JavaScript, and Java
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge&logo=probot&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -67,11 +51,11 @@ class MLEngineer:
 
 ## 🌟 Current Focus
 
-- 🤖 Building AI components for **Tamil Language** processing
-- 🎯 Deep Learning for **Computer Vision** applications
-- ☁️ Architecting scalable **ML pipelines** on Azure & AWS
-- 🔧 Contributing to **Open Source** ML projects
-- 🎓 Exploring cutting-edge **GenAI** & **LLM** technologies
+- 🤖 Advancing **Tamil-language AI** and NLP
+- 🎯 Applying deep learning to **computer vision**
+- ☁️ Designing scalable **AI/ML platforms and pipelines** across Azure and AWS
+- 🧠 Exploring **generative AI and LLMs**
+- 🔧 Contributing to **open-source AI/ML**
 
 ## 📊 GitHub Stats
 
@@ -83,21 +67,17 @@ class MLEngineer:
 
 </div>
 
-## 🤝 Let's Collaborate!
+## 🤝 Let’s Build What’s Next
 
-💡 Open to collaborations on:
-- Hackathons & Innovation Challenges
-- Open Source ML/AI Projects
-- Research in Computer Vision & NLP
-- Tamil Language AI Applications
+Interested in collaborating on **AI/ML products, open-source projects, computer vision and NLP research,** or **Tamil-language AI**.
 
-📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/wickkiey) | [Email](mailto:wickkiey@gmail.com) | [Stack Overflow](https://stackoverflow.com/users/1727543/wickkiey)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/wickkiey) · [Email](mailto:wickkiey@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/1727543/wickkiey)
 
 ---
 
 <div align="center">
 
-### ⚡ "Explore. Code. Repeat." ⚡
+### Architect with purpose. Build for impact.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wickkiey&color=blueviolet&style=flat-square)
 
